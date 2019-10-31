@@ -19,6 +19,16 @@ library(viridis)
 data = read.csv("./orders_train_allvars.csv")
 ```
 
+the distribution of reordered product in different department
+```{r}
+data %>%
+  filter(reordered == 1) %>%
+  group_by(department) %>%
+  count() %>%
+  plot_ly(labels =~department, values=~n, type = "pie")
+```
+
+
 Different aisles in dairy eggs 
 ```{r}
 data %>%
@@ -37,14 +47,7 @@ data %>%
   plot_ly(x=~ order_hour_of_day, y=~n, type = "box")
 ```
 
-the distribution of reordered product in different department
-```{r}
-data %>%
-  filter(reordered == 1) %>%
-  group_by(department) %>%
-  count() %>%
-  plot_ly(labels =~department, values=~n, type = "pie")
-```
+
 
 
 
