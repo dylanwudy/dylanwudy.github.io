@@ -1,0 +1,91 @@
+---
+title: "Resume"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+This is a resume page
+
+# Education
+Columbia University Irving Medical Center, Mailman school of public
+Master of Biochemistry
+
+University of Toronto, St. George (2016- 2019)
+Art & Science, Bachelor of Chemistry Major & Statistics Major
+GPA 3.18/4.0
+
+State University of New York Stony Brook (2014-2016)   
+Art & Science, Bachelor of Biochemistry (freshman and sophomore)
+GPA 3.80/4.0
+
+# RESEARCH EXPERIENCE
+
+Tulane University Cell and Molecular Biology 
+-Lab Research Volunteer in Research Lab Summer 2018    	
+Working as an assistant in the research lab with Professor Yiping Chen, including understanding the process of experimental design, DNA molecular design, synthesis and extraction, genetic data observation and analysis protein function in the mice’s heart tissue and tooth development process.  
+
+-Extracted DNA fragments from analyte mice body tissue with parental DNA point mutation hybridization, amplified DNA fragments by PCR and analyzed its DNA inheritance and expression by gel separation.
+
+-Prepare mice tissue and embryo slides of analyte mice with fluoresce by taking tissues, dehydration with alcohol by different level of alcohol concentration, stored in wax and then cut into slides, observed fluoresce under microscope. 
+
+
+University of Toronto 
+Biological Chemistry Laboratory                                                                                                                 
+-Analyzed the characterization of ChyFyn protein and its function by mutagenesis at different location with Cys DNA fragment.
+
+-Synthesis the protein inhibitor ChyFyn including DNA designing, PCR amplification, HiFi assembly and transformation, mini-prep culture, incubation and selected, protein expression to obtain the target protein after purification.
+
+-Protein quantitively analysis by A260 measurement, then functional analysis by Mass spectrum, UV visible spectrum, Circular dichroism spectrum and Enzyme inhibition analysis after applying light switching crosslinker
+
+
+Fujian Normal University                                              
+Laboratory of Developmental and Neuro Biology                                                                                          
+-Worked as a part-time research assistant, participated in project “Purification of recombinant BMP4 proteins in yeast Pichia Pastoris”, reviewed articles about BMP4 proteins, conducted experiment, analyzed experimental data
+
+
+# INTERNSHIP EXPERIENCE	
+Undergraduate Teaching Practicum Teaching assistant of Molecular Science                                                                                           
+-Assisted professors to communicate with students during class.
+-Held office hours helping students to preview and review for the what professor will teach and taught in class as well as answering students’ question on homework and exams. 
+-Held weekly meeting to prepare questions and answers for students to practice in class.
+
+# VOLUNTEER & LEADERSHIP EXPERIENCE	
+University Health Network Rehabilitation
+Volunteer in Neuro Stroke Department                                                                                              
+-Helped to improve patients’ living quality in the hospital, including having conversation with them and meal serve and support
+-Helped nurses to dealing with simple document: photocopying, rearrange files, prepare specific binders, etc.
+
+Chinese Student & Scholars Association at University of Toronto,Director of Human Resources 
+
+-In charge of human resource department of UTCSSA, mainly focus on new member recruitment, members’ personal appraisal, promotion and demotion
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
