@@ -1,0 +1,55 @@
+---
+title: "Untitled"
+output: 
+  flexdashboard::flex_dashboard:
+    orientation: columns
+    vertical_layout: fill
+---
+
+```{r setup, include=FALSE}
+library(flexdashboard)
+library(p8105.datasets)
+library(tidyverse)
+library(plotly)
+library(viridis)
+data = read.csv("./orders_train_allvars.csv")
+```
+
+Column {data-width=650}
+-----------------------------------------------------------------------
+
+### Chart A
+the distribution of reordered product in different department
+```{r}
+data %>%
+  filter(reordered == 1) %>%
+  group_by(department) %>%
+  count() %>%
+  plot_ly(labels =~department, values=~n, type = "pie")
+```
+
+Column {data-width=350}
+-----------------------------------------------------------------------
+
+### Chart B
+Different aisles in dairy eggs 
+```{r}
+data %>%
+  filter(department == "dairy eggs") %>%
+  group_by(aisle) %>%
+  count() %>%
+  plot_ly(y= ~n, color= ~aisle, type = "bar")
+
+```
+
+### Chart C
+
+distribution of order amount at different hour of day
+
+```{r}
+data %>%
+  group_by(order_id,order_hour_of_day) %>%
+  count() %>%
+  plot_ly(x=~ order_hour_of_day, y=~n, type = "box")
+```
+
