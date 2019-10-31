@@ -10,3 +10,5 @@ output:
 [Introduction](Introduction.html)
 
 [resume](resume.html)
+
+[plotly](plotly.html)
