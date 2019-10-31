@@ -1,0 +1,15 @@
+name: "Yay internet!"
+output_dir: "."
+navbar:
+  title: "Home"
+  right:
+    - text: "google"
+      href: http://google.com
+    - icon: fa-envelope fa-lg
+      href: mailto:<dw2903@cumc.columbia.edu>
+    - icon: fa-github fa-lg
+      href: http://github.com/dw2903.github.io/
+output:
+  html_document:
+    theme: cerulean
+  
