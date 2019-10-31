@@ -7,6 +7,6 @@ output:
 ---
 
 # Welcome to my index page
-[Introduction](introduction.html)
+[Introduction](Introduction.html)
 
 [resume](resume.html)
