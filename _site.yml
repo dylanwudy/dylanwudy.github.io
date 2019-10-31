@@ -8,7 +8,7 @@ navbar:
     - text: Menu
       menu:
       - text: "Index"
-        href: Index
+        href: index.html
       - text: "Plotly"
         href: plotly.html
       - text: "Dashboard"
