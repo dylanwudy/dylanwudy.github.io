@@ -6,7 +6,7 @@ navbar:
     - text: "google"
       href: http://google.com
     - text: "Plotly"
-      herf: Plotly.html
+      herf: Plotly
     - icon: fa-envelope fa-lg
       href: mailto:<dw2903@cumc.columbia.edu>
     - icon: fa-github fa-lg
