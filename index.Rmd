@@ -1,0 +1,12 @@
+---
+title: "index"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+# Welcome to my index page
+[Introduction](introduction.html)
+
+[resume](resume.html)
