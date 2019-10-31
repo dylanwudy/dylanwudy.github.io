@@ -12,3 +12,5 @@ output:
 [resume](resume.html)
 
 [plotly](plotly.html)
+
+[dashboard](dashboard.html)
