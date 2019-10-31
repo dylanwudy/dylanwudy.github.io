@@ -9,18 +9,18 @@ navbar:
       menu:
       - text: "Index"
         href: index.html
+      - text: "introduction"
+        href: introduction.html  
+      - text: "resume"
+        href: resume.html  
       - text: "Plotly"
         href: plotly.html
       - text: "Dashboard"
         href: dashboard.html
-      - text: "resume"
-        href: resume.thml
-      - text: "introduction"
-        href: introduction.html
     - icon: fa-envelope fa-lg
       href: mailto:<dw2903@cumc.columbia.edu>
     - icon: fa-github fa-lg
-      href: http://github.com/dylanwudy.github.io/
+      href: http://github.com/dylanwudy/dylanwudy.github.io/
 output:
   html_document:
     theme: cerulean
